@@ -36,8 +36,6 @@
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=github" height="47" alt="github logo"  />
   <img width="20" />
-  <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="47" alt="githubactions logo"  />
-  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="47" alt="docker logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="47" alt="vscode logo"  />
@@ -54,7 +52,6 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=zakariaaithssain&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zakariaaithssain&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=merko&hide_border=false&order=2" height="152" alt="languages graph"  />
 </div>
 
