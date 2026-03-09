@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I'm Zakaria, an AI & Data Engineering Student at ENSIAS - Rabat. 
+Hey, I'm Zakaria, an AI & ML Engineering Student at ENSIAS - Rabat. 
 
 
 ## 🌐 Socials:
